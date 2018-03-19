@@ -1,0 +1,36 @@
+/* add your CSS here */
+html {
+  background-color: #c5c3c3;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+li {list-style-type: none;}
+
+body {
+  width: 330px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.mala {
+  border: solid;
+  border-color: #fff;
+  background-color: #fff;
+  border-width: 1px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0px 0px 21px 0px rgba(0,0,0,0.75);
+}
+
+.picture{
+  height: 200px;
+  width: 300px;
+  margin:5px;
+  box-shadow: 0px 0px 21px 0px rgba(0,0,0,0.75);
+}
